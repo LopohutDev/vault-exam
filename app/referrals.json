@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1730301085773,
+    "givenname": "Louie",
+    "surname": "Sarraga",
+    "email": "Johnlouie.sarraga@gmail.com",
+    "phone": "(0961) 568 9626",
+    "address": {
+      "street": "Blk 97 Lot 30 Juan Luna St. Barangay Rizal",
+      "city": "Makati",
+      "state": "Metro Manila",
+      "postalCode": "12086",
+      "country": "Philippines"
+    },
+    "notes": ""
+  },
+  {
+    "id": 1730302196940,
+    "givenname": "Louie",
+    "surname": "Sarraga",
+    "email": "Johnlouie.sarraga@gmail.com",
+    "phone": "(0961) 568 9626",
+    "address": {
+      "street": "Blk 97 Lot 30 Juan Luna St. Barangay Rizal",
+      "city": "Makati",
+      "state": "Metro Manila",
+      "postalCode": "12085",
+      "country": "Philippines"
+    },
+    "notes": ""
+  }
+]
